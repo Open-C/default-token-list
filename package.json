@@ -1,10 +1,10 @@
 {
-  "name": "@ubeswap/default-token-list",
-  "version": "4.0.22",
-  "description": "Ubeswap default token list",
-  "main": "ubeswap.token-list.json",
-  "repository": "git@github.com:ubeswap/default-token-list.git",
-  "author": "Ian Macalinao <ian@ubeswap.org>",
+  "name": "@open-celo/default-token-list",
+  "version": "1.0.00",
+  "description": "Centro default token list",
+  "main": "centro.token-list.json",
+  "repository": "git@github.com:Open-C/default-token-list.git",
+  "author": "Dylan Mooers",
   "license": "MIT",
   "devDependencies": {
     "@ethersproject/address": "^5.4.0",
@@ -29,8 +29,8 @@
     "prepare": "husky install"
   },
   "files": [
-    "ubeswap.token-list.json",
-    "ubeswap-experimental.token-list.json"
+    "centro.token-list.json",
+    "centro-experimental.token-list.json"
   ],
   "prettier": {}
 }
